@@ -9,3 +9,5 @@ python main.py
 ```
 python tests.py
 ```
+### Test the Helloworld
+python helloworld.py
